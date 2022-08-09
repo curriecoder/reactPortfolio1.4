@@ -1,0 +1,133 @@
+/* TODO: Look for a better font */
+
+:root {
+  --bgColor: #108194;
+  --textColor: #e7e5e5e1;
+  --textColorDark: #292929e1;
+  --linkHoverColor: #E19627;
+}
+
+* {
+  font-family: 'Raleway', sans-serif;
+  color: var(--textColor);
+  background-color: var(--bgColor);
+}
+
+body{
+  min-height: 100%;
+  min-width: 100%;
+  margin-bottom: 48px;
+}
+
+.no-gutters{
+  margin: 0;
+  padding: 0;
+}
+
+.nav-item a{
+  color: var(--textColor);
+}
+
+.nav-link:focus{
+  color: var(--textColor);
+}
+.nav-link:hover{
+  color: var(--linkHoverColor);
+}
+.nav-item:hover{
+  color: var(--linkHoverColor);
+}
+
+a {
+  color: var(--textColor);
+}
+
+a:hover{
+  color: var(--linkHoverColor);
+}
+
+.header-nameAvatar{
+  position: absolute;
+  right: 1rem;
+  top: 1rem;
+}
+
+.avatar-img{
+  display: flex;
+  flex-direction: end;
+  position: relative;
+  border-radius: 50%;
+  max-width: 7rem;
+}
+
+.header-name{
+  position: absolute;
+}
+
+#cardContainer{
+  max-width: 1140px;
+}
+
+.card{
+  padding: 0;
+  border: none;
+  box-shadow: none;
+  background-color: var(--textColor);
+  height: auto;
+  width: 30rem;
+  transition-duration: 2s;
+}
+
+.card:hover{
+  height: auto;
+  width: 33rem;
+  box-shadow: 10px 17px 5px rgba(47, 62, 79, 0.774);
+}
+
+.card-body{
+  padding-bottom: 0;
+  background-color: var(--textColor);
+  color: var(--textColorDark);
+  text-align: center;
+  align-items: center;
+}
+
+.card-text{
+  background-color: var(--textColor);
+  color: var(--textColorDark);
+}
+
+.card-text>a{
+  color: var(--textColorDark);
+  background-color: var(--textColor);
+  transition-duration: 1s;
+}
+.card-text>a:hover{
+  font-weight: 550;
+  font-size: larger;
+}
+
+textarea{
+  width: 100%;
+  height: 155px;
+  background-color: var(--textColor);
+}
+
+#floatingInput{
+  background-color: var(--textColor);
+}
+
+#floatingName{
+  background-color: var(--textColor);
+}
+
+.footer{
+  width: 100%;
+}
+
+.footer-list{
+  width: 90%;
+  list-style: none;
+  text-decoration: underline;
+  justify-content: space-around;
+}
