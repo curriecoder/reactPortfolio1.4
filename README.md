@@ -3,27 +3,27 @@
 <!-- TODO: UPDATE README WITH CURRENT INFO -->
 
 
-# reactPortfolio1.4
-Personal work portfolio
+<!-- # reactPortfolio1.4 -->
+<!-- Personal work portfolio -->
 
-# React Portfolio
+<!-- # React Portfolio -->
 
-Deployed: https://curriecoder.github.io/react-portfolio-rev1/
+<!-- Deployed: https://curriecoder.github.io/react-portfolio-rev1/ -->
 
-Repo: https://github.com/curriecoder/react-portfolio-rev1
+<!-- Repo: https://github.com/curriecoder/react-portfolio-rev1 -->
 
-## Description
+<!-- ## Description -->
 
-This portfolio was creacted using React to display works. I wanted to get used to using React for MVC due to it's popularity in the market. The main motivation for creating this project is to showcase projects I have been a part of to potential collaborators/employers. I learned a metric ton about React and how to build a single page application that feels like a multi-page application using conditional rendering. This portfolio allows me to gain additional visibility in the job market.
+<!-- This portfolio was creacted using React to display works. I wanted to get used to using React for MVC due to it's popularity in the market. The main motivation for creating this project is to showcase projects I have been a part of to potential collaborators/employers. I learned a metric ton about React and how to build a single page application that feels like a multi-page application using conditional rendering. This portfolio allows me to gain additional visibility in the job market. -->
 
 <!-- ![screenshot](src/assets/images/screenshot.png) -->
 
 
-## Credits
+<!-- ## Credits -->
 
-I would like to thank the instructor and support staff at the UPenn LPS Coding Bootcamp for their support and prioritization of the students. As always, thank you to the online community of web developers and the vast knowledge base that everyone has made available, to those willing to look.
+<!-- I would like to thank the instructor and support staff at the UPenn LPS Coding Bootcamp for their support and prioritization of the students. As always, thank you to the online community of web developers and the vast knowledge base that everyone has made available, to those willing to look. -->
 
-## License
+<!-- ## License -->
 
 MIT License
 
